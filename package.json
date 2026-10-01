@@ -1,0 +1,18 @@
+{
+    "name": "babato-youngboys-fc-website",
+    "version": "1.0.0",
+    "description": "Babato YoungBoys FC - Community Football Club Website",
+    "main": "index.html",
+    "scripts": {
+        "dev": "npx http-server",
+        "start": "npx http-server",
+        "build": "echo 'Static site - no build needed'"
+    },
+    "keywords": ["football", "sports", "club", "ghana", "kintampo"],
+    "author": "Babato YoungBoys FC",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/yourusername/babato-youngboys-fc.git"
+    }
+}
